@@ -1,5 +1,4 @@
 ## Salut, moi c'est Açelya 👋
----
 
 Je suis étudiant en **2ème année de BUT Informatique** à l’IUT Robert Schuman (Illkirch, Strasbourg), parcours **Réalisation d’applications**.  
 
