@@ -8,18 +8,19 @@
 ---
 
 ## Compétences
-| Logo | Nom |
-|------|------|
-| <img src="https://skillicons.dev/icons?i=java" width="30"/> | Java |
-| <img src="https://skillicons.dev/icons?i=php" width="30"/> | PHP |
-| <img src="https://skillicons.dev/icons?i=c" width="30"/> | C |
-| <img src="https://skillicons.dev/icons?i=cs" width="30"/> | C# |
-| <img src="https://skillicons.dev/icons?i=html" width="30"/> | HTML |
-| <img src="https://skillicons.dev/icons?i=css" width="30"/> | CSS |
-| <img src="https://skillicons.dev/icons?i=js" width="30"/> | JavaScript |
-| <img src="https://skillicons.dev/icons?i=sql" width="30"/> | SQL |
-| <img src="https://skillicons.dev/icons?i=git" width="30"/> | Git |
-| <img src="https://skillicons.dev/icons?i=linux" width="30"/> | Linux |
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+![Assembleur](https://img.shields.io/badge/Assembleur-%23004080.svg?style=for-the-badge&logo=ibm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
