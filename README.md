@@ -6,9 +6,6 @@ Au fil de mes études, j’ai pu explorer plusieurs langages, mais je travaille 
 
 Mon objectif est de poursuivre en école d’ingénieur, soit en continuant dans le développement logiciel, soit en me spécialisant dans la data. J’ai aussi un fort intérêt pour l’international, que ce soit pour apprendre, travailler ou collaborer sur des projets.
 
-En dehors du code, je reste curieux de beaucoup de choses — qu’il s’agisse de nouvelles technologies, de culture ou de créativité — et j’aime créer des projets qui reflètent à la fois logique et imagination.
-
-
 ---
 
 ## Outils & technos
