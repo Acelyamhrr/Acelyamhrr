@@ -137,7 +137,7 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 
   <h3>
    <img src="./Assets/icons/bookmark-white.svg" width="12px">
-   My Best Repositories
+     Mes projets épinglés
    <img src="./Assets/icons/bookmark-black.svg" width="14px">
   </h3></br>
 
