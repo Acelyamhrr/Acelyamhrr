@@ -63,7 +63,7 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 <picture>
   <source srcset="./Assets/2.png" media="(prefers-color-scheme: dark)">
   <source srcset="./Assets/2_w.png" media="(prefers-color-scheme: light)">
-  <img src="./Assets/1-dark.png" width="330" align="right"/>
+  <img src="./Assets/1.png" width="200" align="right"/>
 </picture>
 
 <h3 align="center">
