@@ -1,9 +1,9 @@
 # Salut, moi c’est Acelya 👋
 
-Je suis étudiante en **BUT informatique** parcours développement et réalisation d'application, à l'IUT Robert Schuman (Strasbourg).  
-Je travaille actuellement sur un **jeu pédagogique Unity** pour apprendre les audits dans une université.  
-Je suis en train d’apprendre : **Java, PHP, SQLite**  
-Je suis à la recherche d'un **stage en développement**.  
+- Je suis étudiante en **BUT informatique** parcours développement et réalisation d'application, à l'IUT Robert Schuman (Strasbourg).  
+- Je travaille actuellement sur un **jeu pédagogique Unity** pour apprendre les audits dans une université.  
+- Je suis en train d’apprendre : **Java, PHP, SQLite**  
+- Je suis à la recherche d'un **stage en développement**.  
 
 ---
 
