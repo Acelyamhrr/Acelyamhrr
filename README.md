@@ -38,7 +38,7 @@
 <picture>
   <source srcset="./Assets/1.png" media="(prefers-color-scheme: dark)">
   <source srcset="./Assets/1_w.png" media="(prefers-color-scheme: light)">
-  <img src="./Assets/1-dark.png" width="330" align="left"/>
+  <img src="./Assets/1-dark.png" width="200" align="left"/>
 </picture>
 
 <div align="center">
