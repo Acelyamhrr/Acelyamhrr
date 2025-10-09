@@ -1,21 +1,21 @@
-# 👋 Salut, moi c’est Acelya
+# Salut, moi c’est Acelya 👋
 
-Je suis étudiante en **BUT Informatique**, parcours **Développement et Réalisation d’Applications**, à l'IUT Robert Schuman (Strasbourg).  
+Je suis étudiante en **BUT informatique** parcours développement et réalisation d'application, à l'IUT Robert Schuman (Strasbourg).  
 Je travaille actuellement sur un **jeu pédagogique Unity** pour apprendre les audits dans une université.  
-Je suis en train d’apprendre : **Java, PHP, SQLite**.  
-Je suis à la recherche d’un **stage en développement**.
+Je suis en train d’apprendre : **Java, PHP, SQLite**  
+Je suis à la recherche d'un **stage en développement**.  
 
 ---
 
-## 🌐 Centres d'intérêt hors informatique
+## ⚡ Autres centres d’intérêt
 
 - Lire  
-- Sport : courir, basketball  
-- Films et séries
-  
+- Faire du sport (notamment courir et basketball)  
+- Films & séries  
+
 ---
 
-## 💻 Compétences
+## 💻 Mes compétences
 
 <div align="center">
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
@@ -36,33 +36,40 @@ Je suis à la recherche d’un **stage en développement**.
 ## 📊 GitHub Stats
 
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=Acelyamhrr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Acelyamhrr&theme=dark&hide_border=false)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acelyamhrr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Acelyamhrr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Acelyamhrr&theme=dark&hide_border=false" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acelyamhrr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 ---
 
 ## 🏆 Projets Épinglés
 
-- **Audit Royal**  
-  Jeu pédagogique **Unity** pour découvrir le métier d’auditeur et apprendre les bases des audits financiers et opérationnels.  
+### Audit Royal
+Un jeu pédagogique sur le métier d'auditeur pour apprendre de façon interactive.  
+[Voir le projet](https://github.com/Acelyamhrr/Audit-Royal)
 
-- **Simulateur Réseau**  
-  Projet en **C**, réalisé en première année de BUT, pour simuler un réseau local et comprendre le fonctionnement des switchs et protocoles réseau.  
+### Simulateur Réseau
+Un projet réalisé en première année de BUT informatique en C pour simuler un réseau local, apprendre le fonctionnement des switchs et des protocoles réseau.  
+Idéal pour comprendre la diffusion des messages et la gestion des réseaux.  
+[Voir le projet](https://github.com/Acelyamhrr/Acelyamhrr)
 
-- **Sudoku**  
-  Jeu de Sudoku en **Assembleur**, pour apprendre la programmation bas-niveau et la logique algorithmique.  
+### Sudoku
+Un jeu de Sudoku en Assembleur développé pour apprendre la programmation bas-niveau et la logique algorithmique.  
+[Voir le projet](https://github.com/Acelyamhrr/sudoku)
 
-- **Widget Liste de Tâches**  
-  Petit projet web (HTML/CSS/JS) pour gérer ses tâches quotidiennes avec suivi de progression.  
-
-- **Doojon & Dragons**  
-  Jeu de rôle en **Java**, inspiré de D&D, pour gérer des combats et donjons en équipe.  
+### DOOnjon & Dragons
+Un jeu inspiré de D&D réalisé en Java dans le cadre du BUT.  
+[Voir le projet](https://github.com/Acelyamhrr/projet-doojon-et-dragons)
 
 ---
 
-## 📫 Contacts
+## 🌐 Contacts
 
-- **Discord** : Acelyamhrr  
-- **Email** : [ton-email@example.com](mailto:ton-email@example.com)
+- 📧 Email : [acelya@example.com](mailto:acelya@example.com)  
+- 💬 Discord : Acelyamhrr  
+
+---
+
