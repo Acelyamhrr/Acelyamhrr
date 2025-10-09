@@ -1,7 +1,7 @@
 # Salut, moi c’est Acelya 👋
 
 Je suis étudiante en BUT informatique parcours développement et réalisation d'application, à l'IUT Robert Schuman (Strasbourg).  
-Je travaille actuellement sur un **jeu pédagogique Unity** pour apprendre les audits dans une université 🎮🏫
+Je travaille actuellement sur un **jeu pédagogique Unity** pour apprendre les audits dans une université.
 Je suis en train d’apprendre :
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
