@@ -64,7 +64,7 @@ Un jeu inspiré de D&D réalisé en Java dans le cadre du BUT.
 
 ## 🌐 Contacts
 
-- 📧 Email : [acelya@example.com](mailto:acelya@example.com)  
+- 📧 Email : [acelya.mhrr@gmail.com](mailto:acelya.mhrr@gmail.com)  
 - 💬 Discord : Acelyamhrr  
 
 ---
