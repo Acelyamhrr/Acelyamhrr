@@ -43,20 +43,20 @@
 
 ## 🏆 Projets Épinglés
 
-### Audit Royal
+### - Audit Royal
 Un jeu pédagogique sur le métier d'auditeur pour apprendre de façon interactive.  
 [Voir le projet](https://github.com/Acelyamhrr/Audit-Royal)
 
-### Simulateur Réseau
+### - Simulateur Réseau
 Un projet réalisé en première année de BUT informatique en C pour simuler un réseau local, apprendre le fonctionnement des switchs et des protocoles réseau.  
 Idéal pour comprendre la diffusion des messages et la gestion des réseaux.  
 [Voir le projet](https://github.com/Acelyamhrr/Acelyamhrr)
 
-### Sudoku
+### - Sudoku
 Un jeu de Sudoku en Assembleur développé pour apprendre la programmation bas-niveau et la logique algorithmique.  
 [Voir le projet](https://github.com/Acelyamhrr/sudoku)
 
-### DOOnjon & Dragons
+### - DOOnjon & Dragons
 Un jeu inspiré de D&D réalisé en Java dans le cadre du BUT.  
 [Voir le projet](https://github.com/Acelyamhrr/projet-doojon-et-dragons)
 
