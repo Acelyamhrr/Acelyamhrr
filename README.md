@@ -67,9 +67,9 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 </picture>
 
 <h3 align="center">
-  <img src="./Assets/icons/user-white.svg" width=15>
-  Un peu plus sur moi 
-  <img src="./Assets/icons/user-black.svg" width=15>
+  <img src="./Assets/icons/user-white.svg" width="15" style="margin-right:4px;">
+  <b>Un peu plus sur moi</b>
+  <img src="./Assets/icons/user-black.svg" width="15" style="margin-left:4px;">
 </h3>
 
 ⬜ J’aime travailler sur des projets variés, du jeu au développement web. </br>
