@@ -62,10 +62,14 @@ Un jeu inspiré de D&D réalisé en Java dans le cadre du BUT.
 
 ---
 
-## 🌐 Contacts
+## 📬 Contact
 
-- 📧 Email : [acelya.mhrr@gmail.com](mailto:acelya.mhrr@gmail.com)  
-- 💬 Discord : Acelyamhrr  
+<a href="mailto:acelya.mhrr@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-acelya.mhrr%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://discord.com/users/sheenmue">
+  <img src="https://img.shields.io/badge/Discord-sheenmue-5865F2?logo=discord&logoColor=white" alt="Discord">
+</a>
 
 ---
 
