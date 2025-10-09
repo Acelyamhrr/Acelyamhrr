@@ -48,8 +48,7 @@ Un jeu pédagogique sur le métier d'auditeur pour apprendre de façon interacti
 [Voir le projet](https://github.com/Acelyamhrr/Audit-Royal)
 
 ### - Simulateur Réseau
-Un projet réalisé en première année de BUT informatique en C pour simuler un réseau local, apprendre le fonctionnement des switchs et des protocoles réseau.  
-Idéal pour comprendre la diffusion des messages et la gestion des réseaux.  
+Un projet en C pour simuler un réseau local, apprendre le fonctionnement des switchs et des protocoles réseau.  
 [Voir le projet](https://github.com/Acelyamhrr/Acelyamhrr)
 
 ### - Sudoku
@@ -57,7 +56,7 @@ Un jeu de Sudoku en Assembleur développé pour apprendre la programmation bas-n
 [Voir le projet](https://github.com/Acelyamhrr/sudoku)
 
 ### - DOOnjon & Dragons
-Un jeu inspiré de D&D réalisé en Java dans le cadre du BUT.  
+Un jeu inspiré de D&D réalisé en Java.  
 [Voir le projet](https://github.com/Acelyamhrr/projet-doojon-et-dragons)
 
 ---
