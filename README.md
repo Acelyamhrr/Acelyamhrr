@@ -71,6 +71,13 @@ Un jeu inspiré de D&D réalisé en Java dans le cadre du BUT.
   <img src="https://img.shields.io/badge/Discord-sheenmue-5865F2?logo=discord&logoColor=white" alt="Discord">
 </a>
 
+📧 [Email](mailto:acelya.mhrr@gmail.com) • 💬 [Discord](https://discord.com/users/sheenmue)
+
+
+
+[![Email](https://img.shields.io/badge/Email-acelya.mhrr%40gmail.com-red?logo=gmail&logoColor=white)](mailto:acelya.mhrr@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-sheenmue-5865F2?logo=discord&logoColor=white)](https://discord.com)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Acelyamhrr&icon=0&color=0)](https://visitcount.itsvg.in)
