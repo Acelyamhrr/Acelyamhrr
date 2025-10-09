@@ -1,3 +1,5 @@
+![Bannière](97142601-45EF-42E1-8ED0-DB41C9893E74.jpeg)
+
 # Salut, moi c’est Acelya 👋
 
 - Je suis étudiante en **BUT informatique** parcours développement et réalisation d'application, à l'IUT Robert Schuman (Strasbourg).  
