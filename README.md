@@ -3,9 +3,11 @@
 -->
 
 <!-- Bannière -->
-<a href="https://github.com/Acelya">
-  <img src="./Assets/banner.png" alt="Bannière de profil" style="width:100%; height:auto"/>
-</a>
+<picture>
+  <source srcset="./Assets/banner.png" media="(prefers-color-scheme: dark)">
+  <source srcset="./Assets/banner_w.png" media="(prefers-color-scheme: light)">
+  <img src="./Assets/banner-dark.png" alt="Bannière de profil" style="width:100%; height:auto;"/>
+</picture>
 
 <br/>
 
@@ -33,9 +35,13 @@
 
 <br/>
 
-<img src="./Assets/1.png" width=330 align="left">
-<div align="center">
+<picture>
+  <source srcset="./Assets/1.png" media="(prefers-color-scheme: dark)">
+  <source srcset="./Assets/1_w.png" media="(prefers-color-scheme: light)">
+  <img src="./Assets/1-dark.png" width="330" align="left"/>
+</picture>
 
+<div align="center">
 **Qui suis-je ?**
 </div>
 
@@ -53,7 +59,11 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 
 <br/>
 
-<img align="right" alt="logo-illustration" width="300" src="./Assets/2.png">
+<picture>
+  <source srcset="./Assets/2.png" media="(prefers-color-scheme: dark)">
+  <source srcset="./Assets/2_w.png" media="(prefers-color-scheme: light)">
+  <img src="./Assets/1-dark.png" width="330" align="right"/>
+</picture>
 
 <h3 align="center">
   <img src="./Assets/icons/user-white.svg" width=15>
