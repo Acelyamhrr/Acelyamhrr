@@ -1,80 +1,163 @@
+<!--
+  README créé à partir du modèle de Glauedson
+-->
 
-
-# Salut, moi c’est Acelya 👋
-
-- Je suis étudiante en **BUT informatique** parcours développement et réalisation d'application, à l'IUT Robert Schuman (Strasbourg).  
-- Je travaille actuellement sur un **jeu pédagogique Unity** pour apprendre les audits dans une université.  
-- Je suis en train d’apprendre : **Java, PHP, SQLite**  
-- Je suis à la recherche d'un **stage en développement**.  
-
----
-
-## ⚡ Autres centres d’intérêt
-
-- Lire  
-- Faire du sport (notamment courir et basketball)  
-- Films & séries  
-
----
-
-## 💻 Mes compétences
-
-<p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-</p>
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Acelyamhrr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Acelyamhrr&theme=dark&hide_border=false" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acelyamhrr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-
----
-
-## 🏆 Projets Épinglés
-
-### - Audit Royal
-Un jeu pédagogique sur le métier d'auditeur pour apprendre de façon interactive.  
-[Voir le projet](https://github.com/Acelyamhrr/Audit-Royal)
-
-### - Simulateur Réseau
-Un projet en C pour simuler un réseau local, apprendre le fonctionnement des switchs et des protocoles réseau.  
-[Voir le projet](https://github.com/Acelyamhrr/Acelyamhrr)
-
-### - Sudoku
-Un jeu de Sudoku en Assembleur développé pour apprendre la programmation bas-niveau et la logique algorithmique.  
-[Voir le projet](https://github.com/Acelyamhrr/sudoku)
-
-### - DOOnjon & Dragons
-Un jeu inspiré de D&D réalisé en Java.  
-[Voir le projet](https://github.com/Acelyamhrr/projet-doojon-et-dragons)
-
----
-
-## 📬 Contact
-
-<a href="mailto:acelya.mhrr@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-acelya.mhrr%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email">
-</a><br>
-<a href="https://discord.com/users/sheenmue">
-  <img src="https://img.shields.io/badge/Discord-sheenmue-5865F2?logo=discord&logoColor=white" alt="Discord">
+<!-- Bannière -->
+<a href="https://github.com/Acelya">
+  <img src="./Assets/banner.png" alt="Bannière de profil" style="width:100%; height:auto"/>
 </a>
 
+<br/>
 
----
+<!-- vues / followers -->
+<div align="center">
+<a href="https://github.com/Acelya">
+  <img width="180px" 
+       src="https://komarev.com/ghpvc/?username=Acelya&label=Vues%20du%20profil&color=000000&style=for-the-badge" 
+       alt="Vues du profil"
+       title="Nombre total de vues"/> 
+</a>
+<a href="https://api.github-star-counter.workers.dev/user/Acelya">
+  <img width="115px" 
+       alt="étoiles" 
+       title="Total des étoiles" 
+       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Acelya" /> 
+</a>
+<a href="https://github.com/Acelya?tab=followers">
+  <img width="150px" 
+       alt="followers" 
+       title="Followers GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/github/followers/Acelya?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+</a>
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=Acelyamhrr&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="./Assets/1.png" width=330 align="left">
+<div align="center">
+
+**Qui suis-je ?**
+</div>
+
+<div align="justify">
+
+Je m’appelle **Açelya**, étudiante en **BUT Informatique – parcours Développement et Réalisation d’Applications** (semestre 3).  
+Je m’intéresse à tout ce qui touche à la création et à la logique derrière les applications, du front au back, en passant par la data.
+J'aime également, dans mon temps libre, toucher à tout ce qui est graphisme.
+
+J’ai choisi l’informatique parce que je cherchais quelque chose de concret.  
+J’aime comprendre comment les choses fonctionnent, et surtout **contribuer à les construire**.  
+C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expérimenter, et créer des projets qui ont du sens.
+
+</div>
+
+<br/>
+
+<img align="right" alt="logo-illustration" width="300" src="./Assets/2.png">
+
+<h3 align="center">
+  <img src="./Assets/icons/user-white.svg" width=15>
+  Un peu plus sur moi 
+  <img src="./Assets/icons/user-black.svg" width=15>
+</h3>
+
+⬜ J’aime travailler sur des projets variés, du jeu au développement web. </br>
+⬛ J’ai un intérêt particulier pour la **data** et l’analyse. </br>
+⬜ Toujours partante pour aider et collaborer sur des projets intéressants. </br>
+⬛ En dehors de l’informatique, je fais du **sport**, je **lis** et je regarde beaucoup de **films**. </br>
+⬜ J’aime les choses simples et bien faites.
+
+<div align="center"> 
+  <a href="mailto:acelya.mhrr@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://discord.com/users/sheenmue" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</div>
+
+<br/>
+
+<h3 align="center">
+<img src="./Assets/icons/github-white.svg" width=18>
+ Statistiques GitHub 
+<img src="./Assets/icons/github-black.svg" width=22>
+</h3>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Acelyamhrr&theme=dark&hide_border=true&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ff0000&sideLabels=ffffff&dates=aaaaaa)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+<h3 align="center">
+<img src="./Assets/icons/graduation-white.svg" width=25>
+ Parcours académique 
+<img src="./Assets/icons/graduation-black.svg" width=25>
+</h3>
+
+<div align="center">
+
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IUT%20Informatique&course=Développement%20et%20Réalisation%20d'Applications%20(Semestre%203%2F6)&degree=BUT&progress=50%25&img=https://upload.wikimedia.org/wikipedia/commons/6/6a/IUT_logo.png)](https://github.com/Acelya)
+
+</div>
+
+<br/>
+
+<h3 align="center">
+ <img src="./Assets/icons/stack-white.svg" width=17>
+ Stack technique
+ <img src="./Assets/icons/stack-black.svg" width=20>
+</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cs,sqlite,dotnet,linux,git" /><br>
+  <img src="https://skillicons.dev/icons?i=github,figma,notion" />
+</div>
+
+<br/>
+
+
+<!-- My Best Repositories -->
+<div align="center">
+
+  <h3>
+   <img src="./Assets/icons/bookmark-white.svg" width="12px">
+   My Best Repositories
+   <img src="./Assets/icons/bookmark-black.svg" width="14px">
+  </h3></br>
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/Acelyamhrr/Audit-Royal">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Acelyamhrr&repo=Audit-Royal&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/Acelyamhrr/simulateur-r-seau">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Acelyamhrr&repo=simulateur-r-seau&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" />
+    </a>
+</div>
+
+
+<div align="center">
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/Acelyamhrr/sudoku">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Acelyamhrr&repo=sudoku&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/Acelyamhrr/projet-doojon-et-dragons">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Acelyamhrr&repo=projet-doojon-et-dragons&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" />
+    </a>
+  </div>
+
+</div>
+<br/>
+
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=White&height=80&section=footer"
+    width="100%" 
+  />
+</p>
