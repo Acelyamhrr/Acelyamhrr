@@ -1,4 +1,4 @@
-# 👋 Hey, moi c’est Açelya
+# 👋 Bonjour, moi c’est Açelya
 
 ## À propos de moi
 - 🎓 Étudiante en 2ème année de BUT Informatique à l’IUT Robert Schuman (Illkirch), Université de Strasbourg.  
