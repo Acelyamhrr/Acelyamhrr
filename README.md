@@ -3,9 +3,11 @@
 -->
 
 <!-- Bannière -->
-<a href="https://github.com/Acelya">
-  <img src="./Assets/banner.png" alt="Bannière de profil" style="width:100%; height:auto"/>
-</a>
+<picture>
+  <source srcset="./Assets/banner.png" media="(prefers-color-scheme: dark)">
+  <source srcset="./Assets/banner_w.png" media="(prefers-color-scheme: light)">
+  <img src="./Assets/banner-dark.png" alt="Bannière de profil" style="width:100%; height:auto;"/>
+</picture>
 
 <br/>
 
@@ -33,9 +35,14 @@
 
 <br/>
 
-<img src="./Assets/1.png" width=330 align="left">
-<div align="center">
+<picture>
+  <source srcset="./Assets/1.png" media="(prefers-color-scheme: dark)">
+  <source srcset="./Assets/1_w.png" media="(prefers-color-scheme: light)">
+  <img src="./Assets/1-dark.png" width="300" align="left"/>
+</picture>
 
+<div align="center">
+  
 **Qui suis-je ?**
 </div>
 
@@ -53,12 +60,16 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 
 <br/>
 
-<img align="right" alt="logo-illustration" width="300" src="./Assets/2.png">
+<picture>
+  <source srcset="./Assets/2.png" media="(prefers-color-scheme: dark)">
+  <source srcset="./Assets/2_w.png" media="(prefers-color-scheme: light)">
+  <img src="./Assets/1.png" width="200" align="right"/>
+</picture>
 
 <h3 align="center">
-  <img src="./Assets/icons/user-white.svg" width=15>
-  Un peu plus sur moi 
-  <img src="./Assets/icons/user-black.svg" width=15>
+  <img src="./Assets/icons/user-white.svg" width="15" style="margin-right:4px;">
+  <b>Un peu plus sur moi</b>
+  <img src="./Assets/icons/user-black.svg" width="15" style="margin-left:4px;">
 </h3>
 
 ⬜ J’aime travailler sur des projets variés, du jeu au développement web. </br>
@@ -115,7 +126,7 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python" /><br>
   <img src="https://skillicons.dev/icons?i=c,cs,sqlite,dotnet,linux,git" /><br>
-  <img src="https://skillicons.dev/icons?i=github,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=github,notion" />
 </div>
 
 <br/>
@@ -126,7 +137,7 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 
   <h3>
    <img src="./Assets/icons/bookmark-white.svg" width="12px">
-   My Best Repositories
+     Mes projets épinglés
    <img src="./Assets/icons/bookmark-black.svg" width="14px">
   </h3></br>
 
