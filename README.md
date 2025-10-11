@@ -13,23 +13,23 @@
 
 <!-- vues / followers -->
 <div align="center">
-<a href="https://github.com/Acelya">
+<a href="https://github.com/Acelyamhrr">
   <img width="180px" 
-       src="https://komarev.com/ghpvc/?username=Acelya&label=Vues%20du%20profil&color=000000&style=for-the-badge" 
+       src="https://komarev.com/ghpvc/?username=Acelyamhrr&label=Vues%20du%20profil&color=000000&style=for-the-badge" 
        alt="Vues du profil"
        title="Nombre total de vues"/> 
 </a>
-<a href="https://api.github-star-counter.workers.dev/user/Acelya">
+<a href="https://api.github-star-counter.workers.dev/user/Acelyamhrr">
   <img width="115px" 
        alt="étoiles" 
        title="Total des étoiles" 
        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Acelya" /> 
 </a>
-<a href="https://github.com/Acelya?tab=followers">
+<a href="https://github.com/Acelyamhrr?tab=followers">
   <img width="150px" 
        alt="followers" 
        title="Followers GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/Acelya?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+       src="https://custom-icon-badges.herokuapp.com/github/followers/Acelyamhrr?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
 </a>
 </div>
 
@@ -111,7 +111,7 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 
 <div align="center">
 
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IUT%20Informatique&course=Développement%20et%20Réalisation%20d'Applications%20(Semestre%203%2F6)&degree=BUT&progress=50%25&img=https://upload.wikimedia.org/wikipedia/commons/6/6a/IUT_logo.png)](https://github.com/Acelya)
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IUT%20Informatique&course=Développement%20et%20Réalisation%20d'Applications%20(Semestre%203%2F6)&degree=BUT&progress=50%25&img=https://upload.wikimedia.org/wikipedia/commons/6/6a/IUT_logo.png)](https://github.com/Acelyamhrr)
 
 </div>
 
