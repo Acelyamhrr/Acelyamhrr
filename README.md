@@ -135,38 +135,24 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 <br/>
 
 
-<!-- My Best Repositories -->
-<div align="center">
+## Mes projets épinglés
 
-  <h3>
-   <img src="./Assets/icons/bookmark-white.svg" width="12px">
-     Mes projets épinglés
-   <img src="./Assets/icons/bookmark-black.svg" width="14px">
-  </h3></br>
+- **Audit Royal** 🎮  
+  Jeu pédagogique simulant le métier d’auditeur.  
+  **Statut :** en cours
 
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Acelyamhrr/Audit-Royal">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Acelyamhrr&repo=Audit-Royal&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" />
-    </a>
-    <a href="https://github.com/Acelyamhrr/simulateur-r-seau">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Acelyamhrr&repo=simulateur-r-seau&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" />
-    </a>
-</div>
+- **Simulateur Réseau** 🌐  
+  Simulateur de réseau local en C.  
+  **Statut :** terminé
 
+- **Sudoku** 🧩  
+  Sudoku en MIPS32 avec vérification et résolution automatique.  
+  **Statut :** terminé
 
-<div align="center">
+- **Projet Doojon et Dragons** ⚔️  
+  Jeu de rôle D&D simplifié en Java avec gestion de personnages et monstres.  
+  **Statut :** terminé
 
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Acelyamhrr/sudoku">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Acelyamhrr&repo=sudoku&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" />
-    </a>
-    <a href="https://github.com/Acelyamhrr/projet-doojon-et-dragons">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Acelyamhrr&repo=projet-doojon-et-dragons&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" />
-    </a>
-  </div>
-
-</div>
-<br/>
 
 
 <p align="center">
