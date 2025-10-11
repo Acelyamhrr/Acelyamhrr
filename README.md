@@ -11,7 +11,7 @@
 
 <br/>
 
-<!-- vues / followers -->
+<!-- vues / followers 
 <div align="center">
 <a href="https://github.com/Acelyamhrr">
   <img width="180px" 
@@ -31,8 +31,12 @@
        title="Followers GitHub" 
        src="https://custom-icon-badges.herokuapp.com/github/followers/Acelyamhrr?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
 </a>
-</div>
+</div>-->
 
+
+<br/>
+<br/>
+<br/>
 <br/>
 
 <picture>
@@ -72,11 +76,10 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
   <img src="./Assets/icons/user-black.svg" width="15" style="margin-left:4px;">
 </h3>
 
-⬜ J’aime travailler sur des projets variés, du jeu au développement web. </br>
-⬛ J’ai un intérêt particulier pour la **data** et l’analyse. </br>
-⬜ Toujours partante pour aider et collaborer sur des projets intéressants. </br>
-⬛ En dehors de l’informatique, je fais du **sport**, je **lis** et je regarde beaucoup de **films**. </br>
-⬜ J’aime les choses simples et bien faites.
+- J’aime travailler sur des projets variés, du jeu au développement web. </br>
+- J’ai un intérêt particulier pour la **data** et l’analyse. </br>
+- En dehors de l’informatique, je fais du **sport**, je **lis** et je regarde beaucoup de **films**. </br>
+- J’aime les choses simples et bien faites.
 
 <div align="center"> 
   <a href="mailto:acelya.mhrr@gmail.com" target="_blank">
