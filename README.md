@@ -134,26 +134,41 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 
 <br/>
 
+<div align="center">
 
-## Mes projets épinglés
+## 📌 Mes projets épinglés
 
-- **Audit Royal** 🎮  
-  Jeu pédagogique simulant le métier d’auditeur.  
-  **Statut :** en cours
+</div>
 
-- **Simulateur Réseau** 🌐  
-  Simulateur de réseau local en C.  
-  **Statut :** terminé
+---
 
-- **Sudoku** 🧩  
-  Sudoku en MIPS32 avec vérification et résolution automatique.  
-  **Statut :** terminé
+> 🎮 **Audit Royal** (Projet universitaire)  
+> Jeu pédagogique en Unity pour découvrir le métier d’auditeur.  
+> Le joueur incarne un auditeur et doit réaliser des missions dans une université, analyser des documents, identifier les problèmes et proposer des solutions.  
+> **Statut :** en cours
 
-- **Projet Doojon et Dragons** ⚔️  
-  Jeu de rôle D&D simplifié en Java avec gestion de personnages et monstres.  
-  **Statut :** terminé
+---
 
+> 🌐 **Simulateur Réseau** (Projet universitaire)  
+> Développé en C, ce simulateur permet de modéliser et tester un réseau local complet.  
+> Gestion des stations et switchs, simulation de trames Ethernet et implémentation du protocole Spanning Tree (STP).  
+> **Statut :** terminé
 
+---
+
+> 🧩 **Sudoku MIPS32** (Projet universitaire)  
+> Jeu de Sudoku en assembleur MIPS32 permettant de charger, vérifier et résoudre automatiquement des grilles, avec sauvegarde des solutions.  
+> **Statut :** terminé
+
+---
+
+> ⚔️ **Projet Doojon & Dragons** (Projet universitaire)  
+> Jeu de rôle simplifié inspiré de Dungeons & Dragons, développé en Java.  
+> Les joueurs incarnent des personnages dans un univers médiéval fantastique et affrontent des monstres dans plusieurs donjons successifs.  
+> Le Maître du Jeu (MJ) contrôle les monstres et narre l’histoire.  
+> **Statut :** terminé
+
+---
 
 <p align="center">
   <img 
