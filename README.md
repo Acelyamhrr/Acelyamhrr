@@ -90,34 +90,6 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 <br/>
 
 <h3 align="center">
-<img src="./Assets/icons/github-white.svg" width=18>
- Statistiques GitHub 
-<img src="./Assets/icons/github-black.svg" width=22>
-</h3>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Acelyamhrr&theme=dark&hide_border=true&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ff0000&sideLabels=ffffff&dates=aaaaaa)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
-<h3 align="center">
-<img src="./Assets/icons/graduation-white.svg" width=25>
- Parcours académique 
-<img src="./Assets/icons/graduation-black.svg" width=25>
-</h3>
-
-<div align="center">
-
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IUT%20Informatique&course=Développement%20et%20Réalisation%20d'Applications%20(Semestre%203%2F6)&degree=BUT&progress=50%25&img=https://upload.wikimedia.org/wikipedia/commons/6/6a/IUT_logo.png)](https://github.com/Acelyamhrr)
-
-</div>
-
-<br/>
-
-<h3 align="center">
  <img src="./Assets/icons/stack-white.svg" width=17>
  Stack technique
  <img src="./Assets/icons/stack-black.svg" width=20>
