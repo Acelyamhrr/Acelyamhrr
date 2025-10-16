@@ -133,33 +133,33 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 
 <div align="center">
 
-## 📌 Mes projets épinglés
+## Mes projets épinglés
 
 </div>
 
 ---
 
-> 🎮 **Audit Royal** (Projet universitaire)  
+> **Audit Royal** (Projet universitaire)  
 > Jeu pédagogique en Unity pour découvrir le métier d’auditeur.  
 > Le joueur incarne un auditeur et doit réaliser des missions dans une université, analyser des documents, identifier les problèmes et proposer des solutions.  
 > **Statut :** en cours
 
 ---
 
-> 🌐 **Simulateur Réseau** (Projet universitaire)  
+> **Simulateur Réseau** (Projet universitaire)  
 > Développé en C, ce simulateur permet de modéliser et tester un réseau local complet.  
 > Gestion des stations et switchs, simulation de trames Ethernet et implémentation du protocole Spanning Tree (STP).  
 > **Statut :** terminé
 
 ---
 
-> 🧩 **Sudoku MIPS32** (Projet universitaire)  
+> **Sudoku MIPS32** (Projet universitaire)  
 > Jeu de Sudoku en assembleur MIPS32 permettant de charger, vérifier et résoudre automatiquement des grilles, avec sauvegarde des solutions.  
 > **Statut :** terminé
 
 ---
 
-> ⚔️ **Projet Doojon & Dragons** (Projet universitaire)  
+> **Projet Doojon & Dragons** (Projet universitaire)  
 > Jeu de rôle simplifié inspiré de Dungeons & Dragons, développé en Java.  
 > Les joueurs incarnent des personnages dans un univers médiéval fantastique et affrontent des monstres dans plusieurs donjons successifs.  
 > Le Maître du Jeu (MJ) contrôle les monstres et narre l’histoire.  
