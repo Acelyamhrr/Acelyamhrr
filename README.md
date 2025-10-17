@@ -77,15 +77,9 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 - J’ai un intérêt particulier pour la **data** et l’analyse. </br>
 - En dehors de l’informatique, je fais du **sport**, je **lis** et je regarde beaucoup de **films**. </br>
 - J’aime les choses simples et bien faites.
-
-<div align="center"> 
-  <a href="mailto:acelya.mhrr@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://discord.com/users/sheenmue" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-</div>
+- <a href="https://discord.com/users/sheenmue" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />  </a>
+  <a href="mailto:acelya.mhrr@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+</p>
 
 <br/>
 
