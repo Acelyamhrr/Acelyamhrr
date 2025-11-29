@@ -131,6 +131,8 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 > Le Maître du Jeu (MJ) contrôle les monstres et narre l’histoire.  
 > **Statut :** terminé
 
+---
+
 > **Projet NBA Dashboard** (Projet personnel)
 > Application complète de récupération, stockage et visualisation de statistiques NBA en Python
 > Le projet propose à la fois une interface en ligne de commande et une interface graphique pour une utilisation intuitive.
