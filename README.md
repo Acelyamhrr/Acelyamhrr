@@ -139,3 +139,9 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 > **Statut :** terminé mais améliorable
 
 ---
+
+> **Projet Casern-App** (Projet universitaire)
+> Application Winform complète de gestion des missions, du personnel et des engins pour les Services Départementaux d'Incendie et de Secours.
+> **Statut :** terminé
+
+---
