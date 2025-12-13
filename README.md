@@ -11,7 +11,7 @@
 
 <br/>
 
-<!-- vues / followers 
+<!-- vues / followers -->
 <div align="center">
 <a href="https://github.com/Acelyamhrr">
   <img width="180px" 
@@ -31,7 +31,7 @@
        title="Followers GitHub" 
        src="https://custom-icon-badges.herokuapp.com/github/followers/Acelyamhrr?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
 </a>
-</div>-->
+</div>
 
 <br/>
 <br/>
