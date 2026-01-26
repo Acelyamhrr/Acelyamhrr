@@ -108,7 +108,7 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 > **Audit Royal** (Projet universitaire)  
 > Jeu pédagogique en Unity pour découvrir le métier d’auditeur.  
 > Le joueur incarne un auditeur et doit réaliser des missions dans une université, analyser des documents, identifier les problèmes et proposer des solutions.  
-> **Statut :** en cours
+> **Statut :** terminé
 
 ---
 
