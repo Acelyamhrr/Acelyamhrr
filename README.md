@@ -90,7 +90,8 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python" /><br>
   <img src="https://skillicons.dev/icons?i=c,cs,sqlite,dotnet,linux,git" /><br>
-  <img src="https://skillicons.dev/icons?i=github,notion" />
+  <img src="https://skillicons.dev/icons?i=react,php,bun,express,laravel,typescript" /><br>
+  <img src="https://skillicons.dev/icons?i=github,androidstudio,dotnet,r,unity,notion" />
 </div>
 
 <br/>
