@@ -49,7 +49,7 @@
 
 <div align="justify">
 
-Je m’appelle **Açelya**, étudiante en **BUT Informatique – parcours Développement et Réalisation d’Applications** (semestre 3).  
+Je m’appelle **Açelya**, étudiante en **BUT Informatique – parcours Développement et Réalisation d’Applications** (semestre 4).  
 Je m’intéresse à tout ce qui touche à la création et à la logique derrière les applications, du front au back, en passant par la data.
 J'aime également, dans mon temps libre, toucher à tout ce qui est graphisme.
 
@@ -74,9 +74,7 @@ C’est un domaine d’avenir, mais aussi un espace où je peux apprendre, expé
 </h3>
 
 - J’aime travailler sur des projets variés, du jeu au développement web. </br>
-- J’ai un intérêt particulier pour la **data** et l’analyse. </br>
 - En dehors de l’informatique, je fais du **sport**, je **lis** et je regarde beaucoup de **films**. </br>
-- J’aime les choses simples et bien faites.
 - <a href="https://discord.com/users/sheenmue" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />  </a>
   <a href="mailto:acelya.mhrr@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 </p>
